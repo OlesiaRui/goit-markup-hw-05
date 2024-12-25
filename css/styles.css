@@ -649,9 +649,6 @@ textarea {
 
 .social-team-icons {
   fill: #f4f4fd;
-  border-radius: 50%;
-  width: 40px;
-  height: 40px;
 }
 
 /* #endregion */
@@ -800,11 +797,14 @@ textarea {
 
 .icon-link {
   display: flex;
-  background-color: #4d5ae5;
+   width: 100%;
+   height: 100%;  
+   background-color: #4d5ae5;
   justify-content: center;
   align-items: center;
   border-radius: 50%;
 }
+
 
 .icon-link:hover,
 .icon-link:focus {
