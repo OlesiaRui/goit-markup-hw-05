@@ -428,7 +428,7 @@ textarea {
   background-image: linear-gradient(to bottom,
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)),
-    url(../images/background/hero-image.jpg);
+    url(../images/people-office.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -800,8 +800,6 @@ textarea {
 
 .icon-link {
   display: flex;
-  width: 100%;
-  height: 100%;
   background-color: #4d5ae5;
   justify-content: center;
   align-items: center;
