@@ -795,6 +795,11 @@ textarea {
   margin: 0;
 }
 
+ .footer-icon-list-item {
+   width: 40px;
+   height: 40px;
+ }
+
 .icon-link {
   display: flex;
    width: 100%;
@@ -828,8 +833,6 @@ textarea {
 
 .footer-icon {
   fill: #f4f4fd;
-  width: 40px;
-  height: 40px;
 }
 
 .footer-form-wrap {
